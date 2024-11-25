@@ -1,5 +1,7 @@
 # 🐄 Farm2Tech  
 **Farm2Tech** is a digitalized dairy app aimed at empowering rural dairy farmers and small-scale organizations through digital solutions that streamline dairy services.
+![farm2tech-app-ui](https://github.com/user-attachments/assets/eb389096-a73f-42f5-909d-90dc1a9ac64b)
+
 
 ---
 
