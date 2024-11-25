@@ -1,5 +1,4 @@
 #Farm2Tech
-Link- https://farm2tech.netlify.app/
 Farm2Tech is a digitalized dairy app aimed at empowering rural dairy farmers and small-scale organizations through digital solutions that streamline dairy services.
 Key Features:
 • Plan Selection: Offers flexible options including "One-Time Order" and 
